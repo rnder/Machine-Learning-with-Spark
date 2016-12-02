@@ -4,3 +4,6 @@ http://files.grouplens.org/datasets/movielens/ml-100k.zip
 Chapter 05
 https://www.kaggle.com/c/stumbleupon/data
 https://www.kaggle.com/c/stumbleupon/download/train.tsv
+
+Chatper 06
+http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
