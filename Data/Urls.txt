@@ -5,5 +5,8 @@ Chapter 05
 https://www.kaggle.com/c/stumbleupon/data
 https://www.kaggle.com/c/stumbleupon/download/train.tsv
 
-Chatper 06
+Chapter 06
 http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
+
+Chapter 09
+http://qwone.com/~jason/20Newsgroups/
