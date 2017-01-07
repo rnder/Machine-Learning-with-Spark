@@ -8,5 +8,8 @@ https://www.kaggle.com/c/stumbleupon/download/train.tsv
 Chapter 06
 http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
 
+Chapter 08
+http://vis-www.cs.umass.edu/lfw/lfw-a.tgz
+
 Chapter 09
 http://qwone.com/~jason/20Newsgroups/
